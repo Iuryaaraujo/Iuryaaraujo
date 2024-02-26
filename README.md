@@ -5,7 +5,6 @@ I’m currently studying  Computer Science at Gran Faculdade<img align="center" 
 - 🌱 Estudando Java, Spring Boot, API's Rest e Teste Unitário
 - 📫 Contate-me no email: iurymiraima@gmail.com
 - 😄 Pronouns: Ele/Dele
-- 
 - <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
