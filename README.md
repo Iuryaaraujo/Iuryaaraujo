@@ -1,11 +1,11 @@
 ### Olá! Eu sou Iury Araújo
-I’m currently studying  Computer Science at Gran Faculdade<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+I’m currently studying  Computer Science at Gran Faculdade
 
 - 🔭 I am looking for my first job opportunity.
 - 🌱 Estudando Java, Spring Boot, API's Rest e Teste Unitário
 - 📫 Contate-me no email: iurymiraima@gmail.com
 - 😄 Pronouns: Ele/Dele
-- <!-- Dropdown -->
+ <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
