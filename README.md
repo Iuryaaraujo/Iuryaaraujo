@@ -18,6 +18,7 @@ I’m currently studying  Computer Science at Gran Faculdade
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iury_aaraujo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuryaraujo-/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iuryaaraujo&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuryaaraujo&layout=compact)
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Iuryaaraujo&show_icons=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuryaaraujo&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
