@@ -34,7 +34,5 @@
   </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuryaaraujo&show_icons=true&theme=dark#gh-dark-mode-only)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iuryaaraujo)
 
