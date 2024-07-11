@@ -9,7 +9,7 @@
 
 
 - 🔭 Estou em busca da minha primeira oportunidade de emprego.
-- 🌱 Estudando Java, Spring Boot, API's Rest e Teste Unitário
+- 🌱 Estudando Java, Spring Boot, API's Rest e Teste Unitário, Jacoco
 - 📫 Contate-me no email: iurymiraima@gmail.com
 - 😄 Pronomes: Ele/Dele
  <!-- Dropdown -->
